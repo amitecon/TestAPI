@@ -40,7 +40,7 @@ namespace simapleAPI
                 app.UseHsts();
             }
 
-            app.UseHttpsRedirection();
+            
             app.UseMvc();
         }
     }

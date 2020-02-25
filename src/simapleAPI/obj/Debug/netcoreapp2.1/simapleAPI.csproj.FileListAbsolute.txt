@@ -3,7 +3,6 @@ F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\bin\Debug\netcoreapp2.1\simap
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\bin\Debug\netcoreapp2.1\simapleAPI.runtimeconfig.dev.json
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\bin\Debug\netcoreapp2.1\simapleAPI.dll
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\bin\Debug\netcoreapp2.1\simapleAPI.pdb
-F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simapleAPI.csprojAssemblyReference.cache
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simapleAPI.csproj.CoreCompileInputs.cache
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simapleAPI.RazorAssemblyInfo.cache
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simapleAPI.RazorAssemblyInfo.cs
@@ -12,3 +11,4 @@ F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simap
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simapleAPI.RazorTargetAssemblyInfo.cache
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simapleAPI.dll
 F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simapleAPI.pdb
+F:\LiveNewTracer7FEB20\sampleapisol\src\simapleAPI\obj\Debug\netcoreapp2.1\simapleAPI.csprojAssemblyReference.cache
