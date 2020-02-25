@@ -1,0 +1,17 @@
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\obj\Debug\netcoreapp2.1\simapleapi.test.csprojAssemblyReference.cache
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\obj\Debug\netcoreapp2.1\simapleapi.test.csproj.CoreCompileInputs.cache
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\obj\Debug\netcoreapp2.1\simapleapi.test.AssemblyInfoInputs.cache
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\obj\Debug\netcoreapp2.1\simapleapi.test.AssemblyInfo.cs
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\simapleapi.test.deps.json
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\simapleapi.test.runtimeconfig.json
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\simapleapi.test.runtimeconfig.dev.json
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\simapleapi.test.dll
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\simapleapi.test.pdb
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\simapleAPI.dll
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\bin\Debug\netcoreapp2.1\simapleAPI.pdb
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\obj\Debug\netcoreapp2.1\simapleapi.test.csproj.CopyComplete
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\obj\Debug\netcoreapp2.1\simapleapi.test.dll
+F:\LiveNewTracer7FEB20\sampleapisol\test\simapleapi.test\obj\Debug\netcoreapp2.1\simapleapi.test.pdb
