@@ -30,11 +30,11 @@ steps:
 
 
   - task: DotNetCoreCLI@2
-  displayname: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
+  displayName: 'gotnet publish --configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
   inputs:
     command: publish
     publishWebProjects: false
-    projects: src/simapleAPI/simapleAPI.csproj
+    projects: 'src/simapleAPI/simapleAPI.csproj'
     arguments: '--configuration $(BuildConfiguration) --output $(Build.ArtifactStagingDirectory)'
     zipAfterPublish: True
 
