@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace simapleAPI.Controllers
 {
+    //Test API
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
